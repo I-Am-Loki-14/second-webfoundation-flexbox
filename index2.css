@@ -1,0 +1,17 @@
+*{
+    padding: 0;
+    margin: 0;
+    list-style: none;
+    text-decoration: none;
+    box-sizing: border-box;
+}
+nav{
+    height: 150px;
+    background-color: orange;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    justify-content: space-evenly;
+    justify-content: space-between;
+
+}
